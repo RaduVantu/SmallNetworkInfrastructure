@@ -2,7 +2,7 @@
 
 <h3> Description </h3>
 
-<p>The scope of this project was to design and implement (lab) a network infrastructure for a small company named Gogol.co.uk which consists of 3 department HR /Finance, Sales and Admin. </p>
+<p>The scope of this project was to design and implement (lab) a network infrastructure for a small company named Gogol.co.uk which consists of three department HR /Finance, Sales and Admin. </p>
 <p>Each department should not be able to access any other departments and the network should also include four servers, namely Web, Email, DNS, and Common File servers, shared by all departments. The servers require additional monitoring tools in IoT form, such as server room temperature monitor and a door access solution .</p>
 
 <p>Department workstation distribution is as follows:</P>
