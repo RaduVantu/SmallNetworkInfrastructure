@@ -19,6 +19,26 @@
 <h3> Technology used </h3>
 	- <a href="https://www.netacad.com/courses/packet-tracer">Cisco Packet Tracer</a>
 
-<h3> Screenshots </h3>
-
-<p> Coming soon </p>
+<h3> Images </h3>
+<br/>
+<br/>
+<p align="center"> 
+	Subnetting table <br/>
+	<a href="https://imgur.com/B0HKlbx"><img src="https://i.imgur.com/B0HKlbx.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Network topology <br/>
+	<a href="https://imgur.com/DikTTlZ"><img src="https://i.imgur.com/DikTTlZ.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Router DHCP settings <br/>
+	<a href="https://imgur.com/Vyc4xIc"><img src="https://i.imgur.com/Vyc4xIc.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Distribuution layer Switch1 trunking <br/>
+	<a href="https://imgur.com/XWtVcNN"><img src="https://i.imgur.com/XWtVcNN.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Host can communicate intra-department, but not inter-departments <br/>
+	<a href="https://imgur.com/5ZNrBrd"><img src="https://i.imgur.com/5ZNrBrd.jpg" title="source: imgur.com" /></a>	
+</p>
